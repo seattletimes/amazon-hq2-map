@@ -1,10 +1,18 @@
 <%
+var bigNum = function(n) {
+  if (n > 1000000) {
+    return (data.metro_population / 1000000).toFixed(1) + "M";
+  } else {
+    return commafy(n);
+  }
+};
+
 var commafy = function(n) {
   return (n * 1).toLocaleString().replace(/\.0+/, "");
 };
 
 var label = function(s) {
-  return window.cityLabels[s].label;
+  return window.cityLabels[s] ? window.cityLabels[s].label : s;
 };
 
 %><h2>
@@ -18,7 +26,7 @@ var label = function(s) {
   <% if (data.metro_population) { %>
   <li> 
     <label><%= label("metro_population") %></label>
-    <span class="value"><%= (data.metro_population / 1000000).toFixed(1) %>M</span>
+    <span class="value"><%= bigNum(data.metro_population) %></span>
   <% } %>
 
   <% if (data.unemployment_rate) { %>
@@ -27,7 +35,7 @@ var label = function(s) {
     <span class="value"><%= data.unemployment_rate %>%</span>
   <% } %>
 
-  <% if (data.tech_sector) { %>
+  <% if (window.innerWidth > 360 && data.tech_sector) { %>
   <li> 
     <label><%= label("tech_sector") %></label>
     <span class="value"><%= commafy(data.tech_sector) %></span>
@@ -44,7 +52,20 @@ var label = function(s) {
     <label><%= label("home_pricing") %></label>
     <span class="value">$<%= commafy(data.home_pricing) %></span>
   <% } %>
+
+  <% if (data.tax_breaks && data.subsidized_company) { %>
+  <li class="stacked">
+    <label><%= label("tax_breaks") %></label>
+    <span class="value">
+      $<%= commafy(data.tax_breaks) %>
+      <span>(<%= data.subsidized_company %>)</span>
+    </span>
+  <% } %>
 </ul>
+
+<div class="notes">
+  <%= data.notes || "" %>
+</div>
 
 <% if (data.link) { %>
 <div class="source">

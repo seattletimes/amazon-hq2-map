@@ -6,12 +6,15 @@
     "label": "Unemployment rate, July 2017"
   },
   "tech_sector": {
-    "label": "Number of people employed in STEM and other advanced industries"
+    "label": "Number of people employed in STEM fields and other advanced industries"
   },
   "rent_pricing": {
     "label": "Median price for a one-bedroom apartment, Sept. 2017"
   },
   "home_pricing": {
     "label": "Median home price, July 2017"
+  },
+  "tax_breaks": {
+    "label": "Notable previous corporate subsidy"
   }
 }

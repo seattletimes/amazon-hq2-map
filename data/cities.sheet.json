@@ -102,7 +102,7 @@
     "unemployment_rate": 5.1,
     "tech_sector": 111700,
     "rent_pricing": 2206,
-    "home_pricing": 1029786,
+    "home_pricing": 478696,
     "link": "http://vancouversun.com/news/local-news/toronto-among-the-cities-vying-to-become-second-amazon-home-in-north-america",
     "lat": 49.2827291,
     "lng": -123.1207375
@@ -297,7 +297,8 @@
     "tax_breaks": 10000000,
     "subsidized_company": "Finmeccanica",
     "lat": 41.1865478,
-    "lng": -73.1951767
+    "lng": -73.1951767,
+    "notes": "Average rent is for Norwalk, CT."
   },
   {
     "city": "New Haven",
@@ -332,7 +333,7 @@
   {
     "standin_city": "x",
     "city": "Wilmington",
-    "state": "Delaware",
+    "state": "Delaware (Wilmington)",
     "metro_population": 6070500,
     "unemployment_rate": 5.3,
     "tech_sector": 2116,
@@ -393,7 +394,8 @@
     "tax_breaks": 800000,
     "subsidized_company": "Gateway Commerce Center",
     "lat": 38.8114364,
-    "lng": -89.953157
+    "lng": -89.953157,
+    "notes": "Average rent is for St. Louis, MO."
   },
   {
     "city": "Indianapolis",
@@ -452,7 +454,8 @@
     "tax_breaks": 10500000,
     "subsidized_company": "Commercial Barge Line Company",
     "lat": 38.2775702,
-    "lng": -85.7371847
+    "lng": -85.7371847,
+    "notes": "Average rent is for Indianapolis, IN."
   },
   {
     "state": "Kentucky",
@@ -480,7 +483,7 @@
   {
     "standin_city": "x",
     "city": "Kansas City ",
-    "state": "Kansas",
+    "state": "Kansas (Kansas City)",
     "metro_population": 2104509,
     "unemployment_rate": 4.3,
     "tech_sector": 109208,
@@ -491,7 +494,8 @@
     "tax_breaks": 156000000,
     "subsidized_company": "General Motors",
     "lat": 39.114053,
-    "lng": -94.6274636
+    "lng": -94.6274636,
+    "notes": "Data for Kansas City, KS."
   },
   {
     "city": "Louisville",
@@ -530,7 +534,8 @@
     "home_pricing": 278600,
     "link": "https://www.bizjournals.com/washington/news/2017/09/07/where-might-amazon-find-space-in-greater.html?mc_cid=daee83f986&mc_eid=f61b2244aa",
     "lat": 38.7849211,
-    "lng": -76.8720961
+    "lng": -76.8720961,
+    "notes": "Average rent is for Bowie, MA."
   },
   {
     "state": "Maryland",
@@ -594,7 +599,8 @@
     "tax_breaks": 6000000,
     "subsidized_company": "Smith & Wesson Corp.",
     "lat": 42.1014831,
-    "lng": -72.589811
+    "lng": -72.589811,
+    "notes": "Average rent is for Hartford, CT."
   },
   {
     "state": "Minnesota",
@@ -603,7 +609,7 @@
   {
     "city": "Grand Rapids",
     "state": "Michigan",
-    "metro_population": 45242,
+    "metro_population": 1047099,
     "unemployment_rate": 4.2,
     "tech_sector": 52154,
     "rent_pricing": 740,
@@ -643,7 +649,8 @@
     "tax_breaks": 3435000,
     "subsidized_company": "Coloplast Corporation",
     "lat": 44.9374831,
-    "lng": -93.2009998
+    "lng": -93.2009998,
+    "notes": "Average home price for Minneapolis."
   },
   {
     "city": "St. Louis ",
@@ -703,7 +710,8 @@
     "tax_breaks": 37520000,
     "subsidized_company": "NRG Energy Inc.",
     "lat": 40.3028533,
-    "lng": -74.7337069
+    "lng": -74.7337069,
+    "notes": "Average rent for Trenton, NJ."
   },
   {
     "city": "Camden ",
@@ -857,7 +865,8 @@
     "tax_breaks": 279000000,
     "subsidized_company": "Dell",
     "lat": 35.9045258,
-    "lng": -79.9591746
+    "lng": -79.9591746,
+    "notes": "Numbers are for Greensboro, High Point and Winston-Salem all together."
   },
   {
     "city": "Halifax",
@@ -1027,7 +1036,8 @@
     "tax_breaks": 100000,
     "subsidized_company": "Interactive Liquid, LLC",
     "lat": 40.6010681,
-    "lng": -75.4751457
+    "lng": -75.4751457,
+    "notes": "Average rent and home price are for Allentown, PA."
   },
   {
     "city": "Montreal",
@@ -1225,7 +1235,7 @@
   {
     "standin_city": "x",
     "city": "Salt Lake City",
-    "state": "Utah ",
+    "state": "Utah (Salt Lake City)",
     "metro_population": 1186187,
     "unemployment_rate": 3.4,
     "tech_sector": 73795,
@@ -1236,7 +1246,8 @@
     "tax_breaks": 125000000,
     "subsidized_company": "Micron Technology",
     "lat": 40.7607793,
-    "lng": -111.8910474
+    "lng": -111.8910474,
+    "notes": "Data for Salt Lake CIty, UT."
   },
   {
     "city": "Arlington",
@@ -1293,7 +1304,8 @@
     "tax_breaks": 1000000,
     "subsidized_company": "Orbital Sciences Corp.",
     "lat": 39.076767,
-    "lng": -77.6536125
+    "lng": -77.6536125,
+    "notes": "Average rent for Leesburg, VA."
   },
   {
     "city": "Vancouver",
@@ -1329,7 +1341,8 @@
     "home_pricing": 416700,
     "link": "https://www.heraldnet.com/business/hey-amazon-bothell-is-the-place-for-your-hq2-to-be/",
     "lat": 48.0329979,
-    "lng": -121.8339472
+    "lng": -121.8339472,
+    "notes": "Average rent for Everett, WA."
   },
   {
     "city": "Madison",

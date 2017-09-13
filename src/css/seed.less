@@ -2,6 +2,12 @@
 
 main.interactive {
   max-width: 960px;
+  padding: 16px 0;
+
+  h1, p, .notes, .credit {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 }
 
 h1 {
@@ -91,6 +97,14 @@ leaflet-map:not([ready]) {
     padding-bottom: 4px;
     border-bottom: 1px solid @df-light-gray;
     .display-flex();
+
+    &.stacked {
+      display: block;
+
+      label, span {
+        display: block;
+      }
+    }
   }
 
   label {
@@ -103,6 +117,11 @@ leaflet-map:not([ready]) {
     text-align: right;
     .flex(1 1 20%);
     font-weight: bold;
+  }
+
+  .notes {
+    font-style: italic;
+    font-size: 14px;
   }
 
   .source {
