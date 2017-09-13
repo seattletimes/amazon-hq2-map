@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "unauthorized-thirstiness"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2017/business/amazon-hq2-map"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "",
+  "image": "assets/social.jpg",
+  "sheets": ["13-IovJWlvfiFDoKA2libSUJF-fRqnPCAgOm49ytkCLk"],
+  "standout": false,
+  "embedded": true,
+  "production": true
+}

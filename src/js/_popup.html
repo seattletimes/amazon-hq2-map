@@ -1,0 +1,53 @@
+<%
+var commafy = function(n) {
+  return (n * 1).toLocaleString().replace(/\.0+/, "");
+};
+
+var label = function(s) {
+  return window.cityLabels[s].label;
+};
+
+%><h2>
+  <% if (data.standin_city) { %>
+  <%= data.state %>
+  <% } else { %>
+  <%= data.city.trim() %>, <%= data.state %>
+  <% } %>
+  </h2>
+<ul>
+  <% if (data.metro_population) { %>
+  <li> 
+    <label><%= label("metro_population") %></label>
+    <span class="value"><%= (data.metro_population / 1000000).toFixed(1) %>M</span>
+  <% } %>
+
+  <% if (data.unemployment_rate) { %>
+  <li>
+    <label><%= label("unemployment_rate") %></label>
+    <span class="value"><%= data.unemployment_rate %>%</span>
+  <% } %>
+
+  <% if (data.tech_sector) { %>
+  <li> 
+    <label><%= label("tech_sector") %></label>
+    <span class="value"><%= commafy(data.tech_sector) %></span>
+  <% } %>
+
+  <% if (data.rent_pricing) { %>
+  <li> 
+    <label><%= label("rent_pricing") %></label>
+    <span class="value">$<%= commafy(data.rent_pricing) %></span>
+  <% } %>
+
+  <% if (data.home_pricing) { %>
+  <li> 
+    <label><%= label("home_pricing") %></label>
+    <span class="value">$<%= commafy(data.home_pricing) %></span>
+  <% } %>
+</ul>
+
+<% if (data.link) { %>
+<div class="source">
+  <a href="<%= data.link %>" target="_blank">Proposal source</a>
+</div>
+<% } %>

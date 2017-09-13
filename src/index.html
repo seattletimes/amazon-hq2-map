@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+
+    <responsive-child>
+      <main class="interactive">
+        <h1>The Amazon sweepstakes</h1>
+
+        <p>
+          Officials in more than 100 U.S. and Canadian locations have expressed interest in bidding for Amazon.com’s second headquarters and its up to 50,000 workers. The map below charts places that have announced bids or publicly considered it since Amazon announced it was seeking a second home.
+        <div class="filters">
+          <input type="radio" name="filter" id="all" checked="checked">
+          <label for="all">Show all</label>
+
+          <input type="radio" name="filter" id="unemployment">
+          <label for="unemployment">Unemployment over 5%</label>
+
+          <input type="radio" name="filter" id="megametro">
+          <label for="megametro">Population over 1M</label>
+
+          <input type="radio" name="filter" id="tax">
+          <label for="tax">Tax breaks over $100M</label>
+        </div>
+        <div class="aspect-container">
+          <leaflet-map class="aspect">
+            <map-options>{ "scrollWheelZoom": false }</map-options>
+            <tile-layer layer="cartoPositron"></tile-layer>
+          </leaflet-map>
+        </div>
+        <div class="notes">
+          Sources: U.S. Census, U.S. Bureau of Labor Statistics, Statistics Canada, The Brookings Institute, The Brookfield Institute, Apartmentlist.com, Zillow.com, Canadian Real Estate Association, Good Jobs First
+        </div>
+        <div class="credit">
+          Thomas Wilburn / The Seattle Times
+        </div>
+      </main>
+    </responsive-child>
+
+    <script>
+window.cityData = <%= JSON.stringify(json.cities.filter(function(c) { return c.city })) %>;
+window.cityLabels = <%= JSON.stringify(json.labels) %>;
+    </script>
+
+    <script src="app.js" async></script>
+    <% if (json.project.production) { %>
+    <%= !json.project.embedded ? t.include("partials/_analytics.html") : "" %>
+    <%= t.include("partials/_workHere.html") %>
+    <% } %>
+  </body>
+</html>
