@@ -32,6 +32,7 @@
   {
     "city": "Calgary",
     "state": "Alberta ",
+    "canada": "x",
     "metro_population": 1392609,
     "unemployment_rate": 8.5,
     "tech_sector": 70100,
@@ -44,6 +45,7 @@
   {
     "city": "Edmonton",
     "state": "Alberta ",
+    "canada": "x",
     "metro_population": 1321426,
     "unemployment_rate": 8.5,
     "tech_sector": 44500,
@@ -98,6 +100,7 @@
   {
     "city": "Vancouver ",
     "state": "British Columbia",
+    "canada": "x",
     "metro_population": 2463431,
     "unemployment_rate": 5.1,
     "tech_sector": 111700,
@@ -515,6 +518,7 @@
   {
     "city": "Winnipeg",
     "state": "Manitoba",
+    "canada": "x",
     "metro_population": 778489,
     "unemployment_rate": 5.6,
     "tech_sector": 19100,
@@ -871,6 +875,7 @@
   {
     "city": "Halifax",
     "state": "Nova Scotia",
+    "canada": "x",
     "metro_population": 403390,
     "unemployment_rate": 6.8,
     "tech_sector": 17900,
@@ -929,6 +934,7 @@
   {
     "city": "Brampton",
     "state": "Ontario",
+    "canada": "x",
     "metro_population": 5928040,
     "unemployment_rate": 6.9,
     "tech_sector": 286100,
@@ -941,6 +947,7 @@
   {
     "city": "Toronto",
     "state": "Ontario",
+    "canada": "x",
     "metro_population": 5928040,
     "unemployment_rate": 6.9,
     "tech_sector": 286100,
@@ -953,6 +960,7 @@
   {
     "city": "Hamilton ",
     "state": "Ontario",
+    "canada": "x",
     "metro_population": 747545,
     "unemployment_rate": 5.4,
     "tech_sector": 18100,
@@ -965,6 +973,7 @@
   {
     "city": "Ottawa ",
     "state": "Ontario",
+    "canada": "x",
     "metro_population": 1323783,
     "unemployment_rate": 6.3,
     "tech_sector": 59500,
@@ -1042,6 +1051,7 @@
   {
     "city": "Montreal",
     "state": "Quebec",
+    "canada": "x",
     "metro_population": 4098927,
     "unemployment_rate": 6.3,
     "tech_sector": 222200,

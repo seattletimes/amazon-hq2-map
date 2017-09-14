@@ -46,13 +46,13 @@ var $ = data.canada ? "CA$" : "$";
   <% if (data.rent_pricing) { %>
   <li> 
     <label><%= label("rent_pricing") %></label>
-    <span class="value">$<%= commafy(data.rent_pricing) %></span>
+    <span class="value"><%= $ %><%= commafy(data.rent_pricing) %></span>
   <% } %>
 
   <% if (data.home_pricing) { %>
   <li> 
     <label><%= label("home_pricing") %></label>
-    <span class="value">$<%= commafy(data.home_pricing) %></span>
+    <span class="value"><%= $ %><%= commafy(data.home_pricing) %></span>
   <% } %>
 
   <% if (data.tax_breaks && data.subsidized_company) { %>
