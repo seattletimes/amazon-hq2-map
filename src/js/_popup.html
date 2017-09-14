@@ -15,6 +15,8 @@ var label = function(s) {
   return window.cityLabels[s] ? window.cityLabels[s].label : s;
 };
 
+var $ = data.canada ? "CA$" : "$";
+
 %><h2>
   <% if (data.standin_city) { %>
   <%= data.state %>
