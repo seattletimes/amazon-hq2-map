@@ -4,7 +4,7 @@
     "state": "Alabama",
     "metro_population": 1147417,
     "unemployment_rate": 4.4,
-    "tech_sector": 40,
+    "tech_sector": 40099,
     "rent_pricing": 800,
     "home_pricing": 63800,
     "link": "http://www.al.com/business/index.ssf/2017/09/birmingham_is_interested_in_2n.html",
@@ -105,7 +105,7 @@
     "unemployment_rate": 5.1,
     "tech_sector": 111700,
     "rent_pricing": 2206,
-    "home_pricing": 478696,
+    "home_pricing": 1029786,
     "link": "http://vancouversun.com/news/local-news/toronto-among-the-cities-vying-to-become-second-amazon-home-in-north-america",
     "lat": 49.2827291,
     "lng": -123.1207375
@@ -319,6 +319,20 @@
     "lng": -72.9278835
   },
   {
+    "city": "Danbury",
+    "state": "Connecticut",
+    "metro_population": 944177,
+    "unemployment_rate": 4.2,
+    "tech_sector": 46674,
+    "rent_pricing": 1170,
+    "home_pricing": 262100,
+    "link": "http://www.newstimes.com/local/article/Boughton-asks-where-Amazon-should-locate-new-HQ-12197887.php",
+    "breaks_with_link": 20000000,
+    "tax_breaks": "FuelCell Energy, Inc.",
+    "lat": 41.394817,
+    "lng": -73.4540111
+  },
+  {
     "city": "Washington",
     "state": "D.C. ",
     "metro_population": 6131977,
@@ -350,6 +364,11 @@
     "lng": -75.5397878
   },
   {
+    "state": "Florida",
+    "metro_population": 20612439,
+    "link": "http://www.tampabay.com/news/business/economicdevelopment/trigaux-tampa-joins-most-competitive-pursuit-8212-to-capture-amazons-new/2336771"
+  },
+  {
     "city": "Tampa",
     "state": "Florida",
     "metro_population": 3032171,
@@ -363,11 +382,6 @@
     "subsidized_company": "IKEA",
     "lat": 27.950575,
     "lng": -82.4571776
-  },
-  {
-    "state": "Florida",
-    "metro_population": 20612439,
-    "link": "http://www.tampabay.com/news/business/economicdevelopment/trigaux-tampa-joins-most-competitive-pursuit-8212-to-capture-amazons-new/2336771"
   },
   {
     "city": "Chicago",
@@ -445,6 +459,10 @@
     "lng": -86.4996546
   },
   {
+    "state": "Kentucky",
+    "link": "http://www.wdrb.com/story/36313967/does-kentucky-have-a-shot-at-amazons-second-headquarters"
+  },
+  {
     "city": "Jeffersonville ",
     "state": "Indiana ",
     "metro_population": 1283430,
@@ -461,8 +479,8 @@
     "notes": "Average rent is for Indianapolis, IN."
   },
   {
-    "state": "Kentucky",
-    "link": "http://www.wdrb.com/story/36313967/does-kentucky-have-a-shot-at-amazons-second-headquarters"
+    "state": "Louisiana",
+    "link": "http://www.thenewsstar.com/story/news/2017/09/08/la-make-bid-amazons-hq-2-50-000-jobs/645246001/"
   },
   {
     "city": "Des Moines",
@@ -478,10 +496,6 @@
     "subsidized_company": "Orascom Construction Industries",
     "lat": 41.6005448,
     "lng": -93.6091064
-  },
-  {
-    "state": "Louisiana",
-    "link": "http://www.thenewsstar.com/story/news/2017/09/08/la-make-bid-amazons-hq-2-50-000-jobs/645246001/"
   },
   {
     "standin_city": "x",
@@ -529,6 +543,10 @@
     "lng": -97.1383744
   },
   {
+    "state": "Maryland",
+    "link": "http://www.baltimoresun.com/business/bs-bz-amazon-headquarters-20170907-story.html"
+  },
+  {
     "city": "Prince George County",
     "state": "Maryland",
     "metro_population": 6131977,
@@ -540,10 +558,6 @@
     "lat": 38.7849211,
     "lng": -76.8720961,
     "notes": "Average rent is for Bowie, MA."
-  },
-  {
-    "state": "Maryland",
-    "link": "http://www.baltimoresun.com/business/bs-bz-amazon-headquarters-20170907-story.html"
   },
   {
     "city": "College Park ",
@@ -591,6 +605,10 @@
     "lng": -71.0588801
   },
   {
+    "state": "Minnesota",
+    "link": "http://www.startribune.com/twin-cities-likely-to-chase-amazon-s-rfp-on-second-headquarters-campus/443048423/"
+  },
+  {
     "city": "Springfield",
     "state": "Massachusetts ",
     "metro_population": 630283,
@@ -607,8 +625,20 @@
     "notes": "Average rent is for Hartford, CT."
   },
   {
-    "state": "Minnesota",
-    "link": "http://www.startribune.com/twin-cities-likely-to-chase-amazon-s-rfp-on-second-headquarters-campus/443048423/"
+    "city": "Lawrence-Haverhill-North Andover",
+    "state": "Massachusetts ",
+    "metro_population": 4794447,
+    "unemployment_rate": 5.4,
+    "tech_sector": 355602,
+    "rent_pricing": "$1,285",
+    "home_pricing": 266200,
+    "link": "http://www.eagletribune.com/news/haverhill/lawrence-haverhill-north-andover-will-bid-for-amazon-hq/article_8000c1d8-c985-5621-9ad4-070c3e313564.html",
+    "breaks_with_link": 400000,
+    "tax_breaks": 400000,
+    "subsidized_company": "280 Riverwalk LLC",
+    "lat": 42.733369,
+    "lng": -71.1132846,
+    "notes": "Unemployment numbers are for Lawrence-Methuen-Salem area."
   },
   {
     "city": "Grand Rapids",
@@ -733,6 +763,10 @@
     "lng": -75.1196199
   },
   {
+    "state": "New York",
+    "link": "http://www.timesunion.com/news/article/Capital-Region-for-Amazon-s-HQ2-12182473.php"
+  },
+  {
     "city": "Albuquerque ",
     "state": "New Mexico",
     "metro_population": 909906,
@@ -761,10 +795,6 @@
     "subsidized_company": "Tesla Motors",
     "lat": 42.8864468,
     "lng": -78.8783689
-  },
-  {
-    "state": "New York",
-    "link": "http://www.timesunion.com/news/article/Capital-Region-for-Amazon-s-HQ2-12182473.php"
   },
   {
     "city": "Syracuse",
@@ -886,6 +916,10 @@
     "lng": -63.5752387
   },
   {
+    "state": "Ontario",
+    "link": "http://www.cbc.ca/news/canada/toronto/ont-amazon-bid-1.4283028"
+  },
+  {
     "city": "Cincinnati",
     "state": "Ohio",
     "metro_population": 2165139,
@@ -911,10 +945,6 @@
     "link": "http://fox45now.com/news/local/dayton-to-enter-bid-for-5-billion-amazon-headquarters",
     "lat": 39.7589478,
     "lng": -84.1916069
-  },
-  {
-    "state": "Ontario",
-    "link": "http://www.cbc.ca/news/canada/toronto/ont-amazon-bid-1.4283028"
   },
   {
     "city": "Tulsa",
@@ -971,6 +1001,10 @@
     "lng": -79.8711024
   },
   {
+    "state": "Pennsylvania",
+    "link": "http://timesleader.com/news/local/674599/casey-urges-amazon-founder-to-consider-pennsylvania-for-hq2"
+  },
+  {
     "city": "Ottawa ",
     "state": "Ontario",
     "canada": "x",
@@ -982,6 +1016,18 @@
     "link": "http://www.cbc.ca/news/canada/ottawa/ottawa-jim-watson-amazon-hq2-1.4281216",
     "lat": 45.4215296,
     "lng": -75.6971931
+  },
+  {
+    "city": "London ",
+    "state": "Ontario",
+    "canada": "x",
+    "metro_population": 494069,
+    "unemployment_rate": 6.2,
+    "tech_sector": 10900,
+    "rent_pricing": 852,
+    "link": "http://globalnews.ca/news/3726314/london-eyes-bid-for-amazons-second-headquarters/",
+    "lat": 42.9849233,
+    "lng": -81.2452768
   },
   {
     "city": "Portland",
@@ -997,10 +1043,6 @@
     "subsidized_company": "SoloPower, Inc.",
     "lat": 45.5230622,
     "lng": -122.6764815
-  },
-  {
-    "state": "Pennsylvania",
-    "link": "http://timesleader.com/news/local/674599/casey-urges-amazon-founder-to-consider-pennsylvania-for-hq2"
   },
   {
     "city": "Philadelphia",
@@ -1089,6 +1131,10 @@
     "lng": -82.3940104
   },
   {
+    "state": "Texas",
+    "link": "http://www.mystatesman.com/business/top-local-business-stories-the-week/VM382ArQBXiRKPInl12dXJ/"
+  },
+  {
     "city": "Memphis",
     "state": "Tennessee",
     "metro_population": 1342842,
@@ -1132,10 +1178,6 @@
     "subsidized_company": "OMB Houston",
     "lat": 29.7604267,
     "lng": -95.3698028
-  },
-  {
-    "state": "Texas",
-    "link": "http://www.mystatesman.com/business/top-local-business-stories-the-week/VM382ArQBXiRKPInl12dXJ/"
   },
   {
     "city": "Dallas",
@@ -1355,6 +1397,20 @@
     "notes": "Average rent for Everett, WA."
   },
   {
+    "city": "Bellevue",
+    "state": "Washington",
+    "metro_population": 3798902,
+    "unemployment_rate": 4,
+    "tech_sector": 308210,
+    "rent_pricing": 1880,
+    "home_pricing": 839600,
+    "link": "http://bellevue.granicus.com/MediaPlayer.php?view_id=3&clip_id=5049",
+    "breaks_with_link": "undisclosed",
+    "tax_breaks": "MSNW",
+    "lat": 47.6101497,
+    "lng": -122.2015159
+  },
+  {
     "city": "Madison",
     "state": "Wisconsin",
     "metro_population": 648929,
@@ -1383,5 +1439,110 @@
     "subsidized_company": "Northwestern Mutual Life Insurance",
     "lat": 43.0389025,
     "lng": -87.9064736
+  },
+  {
+    "city": "Miami",
+    "state": "Florida",
+    "metro_population": 6066387,
+    "unemployment_rate": 4.5,
+    "tech_sector": 142383,
+    "rent_pricing": 1060,
+    "link": "https://www.bizjournals.com/southflorida/news/2017/09/13/miami-fort-lauderdale-hope-to-land-amazons-second.html",
+    "breaks_with_link": "$24,000,000",
+    "tax_breaks": 24000000,
+    "subsidized_company": "BDB Miami ",
+    "lat": 25.76168,
+    "lng": -80.19179
+  },
+  {
+    "city": "Fort Lauderdale",
+    "state": "Florida",
+    "metro_population": 6066387,
+    "unemployment_rate": 4.5,
+    "tech_sector": 142383,
+    "rent_pricing": 1140,
+    "link": "https://www.bizjournals.com/southflorida/news/2017/09/13/miami-fort-lauderdale-hope-to-land-amazons-second.html",
+    "lat": 26.122439,
+    "lng": -80.137317
+  },
+  {
+    "city": "Atlanta",
+    "state": "Georgia",
+    "metro_population": 5789700,
+    "unemployment_rate": 4.8,
+    "tech_sector": 229427,
+    "rent_pricing": 1010,
+    "link": "http://politics.blog.ajc.com/2017/09/15/georgia-governor-on-amazon-hq-were-going-to-make-a-big-push/",
+    "lat": 33.7489954,
+    "lng": -84.3879824
+  },
+  {
+    "city": "Akron",
+    "state": "Ohio",
+    "metro_population": 702221,
+    "unemployment_rate": 5.3,
+    "tech_sector": 26077,
+    "link": "https://www.youtube.com/watch?v=iK9Ri2V-yRw",
+    "lat": 41.0814447,
+    "lng": -81.5190053
+  },
+  {
+    "city": "Vallejo",
+    "state": "California",
+    "metro_population": 440207,
+    "unemployment_rate": 5.4,
+    "tech_sector": 8052,
+    "rent_pricing": 1100,
+    "link": "http://www.timesheraldonline.com/general-news/20170914/could-amazon-be-the-rising-tide-to-lift-all-vallejo-boats",
+    "lat": 38.1040864,
+    "lng": -122.2566367
+  },
+  {
+    "city": "Cleveland",
+    "state": "Ohio",
+    "metro_population": 2055612,
+    "unemployment_rate": 6.6,
+    "tech_sector": 94396,
+    "rent_pricing": 640,
+    "link": "http://www.wkyc.com/news/local/cleveland/cleveland-to-bid-on-amazon-headquarters-site/475279595",
+    "lat": 41.49932,
+    "lng": -81.6943605
+  },
+  {
+    "city": "Long Island ",
+    "state": "New York",
+    "metro_population": 2854083,
+    "unemployment_rate": 4.7,
+    "tech_sector": 671292,
+    "link": "http://newyork.cbslocal.com/2017/09/16/long-island-amazon-headquarters/",
+    "lat": 40.789142,
+    "lng": -73.134961
+  },
+  {
+    "city": "New Bedford ",
+    "state": "Massachusetts ",
+    "metro_population": 1614750,
+    "unemployment_rate": 6.1,
+    "tech_sector": 56579,
+    "link": "http://www.southcoasttoday.com/news/20170915/new-bedford-may-make-pitch-for-amazons-hq2",
+    "breaks_with_link": "$1,500,000",
+    "tax_breaks": 1500000,
+    "subsidized_company": "Riverbank Lofts LLC ",
+    "lat": 41.6362152,
+    "lng": -70.934205
+  },
+  {
+    "city": "Gary",
+    "state": "Indiana",
+    "metro_population": 9512999,
+    "unemployment_rate": 4.9,
+    "tech_sector": 425925,
+    "rent_pricing": 810,
+    "link": "http://www.nwitimes.com/business/local/gary-makes-far-fetched-bid-for-amazon-s-second-headquarters/article_e2067244-de2b-50f3-b37c-b1729f88e75f.html",
+    "breaks_with_link": "$1,000,000",
+    "tax_breaks": 1000000,
+    "subsidized_company": "U.S. Steel",
+    "lat": 41.5933696,
+    "lng": -87.3464271
   }
 ]
