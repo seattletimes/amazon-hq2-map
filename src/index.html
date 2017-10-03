@@ -10,6 +10,14 @@
       <main class="interactive">
         <h1>The Amazon sweepstakes</h1>
 
+        <p class="updated">
+          <%
+          var mos = [null, "Jan.", "Feb.", "Mar.", "Apr.", "June", "July", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."];
+          var today = new Date();
+          var date = mos[today.getMonth()] + " " + today.getDate();
+          %>
+          Updated: <%= date %>, 2017
+
         <p>
           Officials in more than 100 U.S. and Canadian locations have expressed interest in bidding for Amazon.com’s second headquarters and its up to 50,000 workers. The map below charts places that have announced bids or publicly considered it since Amazon announced it was seeking a second home. Click on a city for more details.
         <div class="filters">

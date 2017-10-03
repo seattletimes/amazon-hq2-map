@@ -1447,6 +1447,7 @@
     "unemployment_rate": 4.5,
     "tech_sector": 142383,
     "rent_pricing": 1060,
+    "home_pricing": 300800,
     "link": "https://www.bizjournals.com/southflorida/news/2017/09/13/miami-fort-lauderdale-hope-to-land-amazons-second.html",
     "breaks_with_link": "$24,000,000",
     "tax_breaks": 24000000,
@@ -1461,6 +1462,7 @@
     "unemployment_rate": 4.5,
     "tech_sector": 142383,
     "rent_pricing": 1140,
+    "home_pricing": 287900,
     "link": "https://www.bizjournals.com/southflorida/news/2017/09/13/miami-fort-lauderdale-hope-to-land-amazons-second.html",
     "lat": 26.122439,
     "lng": -80.137317
@@ -1472,6 +1474,7 @@
     "unemployment_rate": 4.8,
     "tech_sector": 229427,
     "rent_pricing": 1010,
+    "home_pricing": 212200,
     "link": "http://politics.blog.ajc.com/2017/09/15/georgia-governor-on-amazon-hq-were-going-to-make-a-big-push/",
     "lat": 33.7489954,
     "lng": -84.3879824
@@ -1482,6 +1485,7 @@
     "metro_population": 702221,
     "unemployment_rate": 5.3,
     "tech_sector": 26077,
+    "home_pricing": 65300,
     "link": "https://www.youtube.com/watch?v=iK9Ri2V-yRw",
     "lat": 41.0814447,
     "lng": -81.5190053
@@ -1493,6 +1497,7 @@
     "unemployment_rate": 5.4,
     "tech_sector": 8052,
     "rent_pricing": 1100,
+    "home_pricing": 358400,
     "link": "http://www.timesheraldonline.com/general-news/20170914/could-amazon-be-the-rising-tide-to-lift-all-vallejo-boats",
     "lat": 38.1040864,
     "lng": -122.2566367
@@ -1504,6 +1509,7 @@
     "unemployment_rate": 6.6,
     "tech_sector": 94396,
     "rent_pricing": 640,
+    "home_pricing": 58600,
     "link": "http://www.wkyc.com/news/local/cleveland/cleveland-to-bid-on-amazon-headquarters-site/475279595",
     "lat": 41.49932,
     "lng": -81.6943605
@@ -1514,6 +1520,7 @@
     "metro_population": 2854083,
     "unemployment_rate": 4.7,
     "tech_sector": 671292,
+    "home_pricing": 348000,
     "link": "http://newyork.cbslocal.com/2017/09/16/long-island-amazon-headquarters/",
     "lat": 40.789142,
     "lng": -73.134961
@@ -1524,6 +1531,7 @@
     "metro_population": 1614750,
     "unemployment_rate": 6.1,
     "tech_sector": 56579,
+    "home_pricing": 224500,
     "link": "http://www.southcoasttoday.com/news/20170915/new-bedford-may-make-pitch-for-amazons-hq2",
     "breaks_with_link": "$1,500,000",
     "tax_breaks": 1500000,
@@ -1538,11 +1546,197 @@
     "unemployment_rate": 4.9,
     "tech_sector": 425925,
     "rent_pricing": 810,
+    "home_pricing": 54500,
     "link": "http://www.nwitimes.com/business/local/gary-makes-far-fetched-bid-for-amazon-s-second-headquarters/article_e2067244-de2b-50f3-b37c-b1729f88e75f.html",
     "breaks_with_link": "$1,000,000",
     "tax_breaks": 1000000,
     "subsidized_company": "U.S. Steel",
     "lat": 41.5933696,
     "lng": -87.3464271
+  },
+  {
+    "city": "Oak Brook",
+    "state": "Illinois",
+    "metro_population": 9512999,
+    "tech_sector": 425925,
+    "home_pricing": 706900,
+    "link": "http://www.chicagotribune.com/suburbs/oak-brook/news/ct-dob-amazon-bid-tl-0921-20170919-story.html",
+    "lat": 41.8397865,
+    "lng": -87.9535534
+  },
+  {
+    "city": "Mesa-Chandler",
+    "state": "Arizona",
+    "metro_population": 4661537,
+    "unemployment_rate": 4.6,
+    "tech_sector": 158775,
+    "rent_pricing": 840,
+    "home_pricing": 225400,
+    "link": "http://www.eastvalleytribune.com/news/east-valley-cities-line-up-to-win-new-amazon-headquarters/article_a3c85424-9cb8-11e7-b63b-1722e65ff6c5.html",
+    "lat": 33.301194,
+    "lng": -111.968778
+  },
+  {
+    "city": "Fall River ",
+    "state": "Massachusetts ",
+    "metro_population": 1614750,
+    "unemployment_rate": 4.8,
+    "tech_sector": 56579,
+    "rent_pricing": 860,
+    "home_pricing": 233800,
+    "link": "http://www.southcoasttoday.com/news/20170919/fall-river-making-pitch-for-amazon-headquarters",
+    "lat": 41.7014912,
+    "lng": -71.1550451
+  },
+  {
+    "city": "Manchester",
+    "state": "New Hampshire",
+    "metro_population": 407761,
+    "unemployment_rate": 2.5,
+    "tech_sector": 28826,
+    "rent_pricing": 1170,
+    "home_pricing": 217000,
+    "link": "http://nh1.com/news/top-news/as-amazon-plans-new-headquarters-nh-hopes-to-get-in-on-the-action",
+    "lat": 42.9956397,
+    "lng": -71.4547891
+  },
+  {
+    "city": "Stonecrest",
+    "state": "Georgia",
+    "metro_population": 5789700,
+    "unemployment_rate": 5.5,
+    "tech_sector": 229427,
+    "link": "http://ocgnews.com/city-of-stonecrest-competing-for-amazons-new-headquarters/",
+    "lat": 33.698206,
+    "lng": -84.0952394
+  },
+  {
+    "city": "Waukegan",
+    "state": "Illinois ",
+    "metro_population": 9512999,
+    "unemployment_rate": 4.9,
+    "tech_sector": 425925,
+    "rent_pricing": 830,
+    "home_pricing": 116100,
+    "link": "http://www.chicagotribune.com/suburbs/lake-county-news-sun/news/ct-lns-amazon-lake-county-bid-st-0923-20170922-story.html",
+    "lat": 42.3636331,
+    "lng": -87.8447938
+  },
+  {
+    "city": "Pennsville Township",
+    "state": "New Jersey",
+    "metro_population": 723026,
+    "unemployment_rate": 6.5,
+    "tech_sector": 2116,
+    "home_pricing": 133800,
+    "link": "http://www.nj.com/salem/index.ssf/2017/09/tiny_salem_county_seeks_a_big_prize_amazon_headqua.html",
+    "lat": 39.6284514,
+    "lng": -75.4984978
+  },
+  {
+    "city": "Orland Park",
+    "state": "Illinois",
+    "metro_population": 9512999,
+    "unemployment_rate": 6.2,
+    "tech_sector": 425925,
+    "home_pricing": 268500,
+    "link": "http://www.chicagotribune.com/suburbs/daily-southtown/community/chi-ugc-article-village-of-orland-park-vies-for-amazons-seco-2017-09-25-story.html",
+    "lat": 41.6303103,
+    "lng": -87.8539425
+  },
+  {
+    "city": "Bradley",
+    "state": "Illinois",
+    "metro_population": 110008,
+    "unemployment_rate": 6.1,
+    "tech_sector": 3315,
+    "home_pricing": 104200,
+    "link": "http://www.daily-journal.com/news/local/county-joins-race-for-amazon/article_937cff7b-ed74-5592-a7dc-b6f6cc2a8694.html",
+    "lat": 41.1419768,
+    "lng": -87.8611535
+  },
+  {
+    "city": "Shakopee ",
+    "state": "Minnesota",
+    "metro_population": 3551036,
+    "unemployment_rate": 4.3,
+    "tech_sector": 187014,
+    "rent_pricing": 1130,
+    "home_pricing": 225900,
+    "link": "http://www.swnewsmedia.com/shakopee_valley_news/news/scott-county-pitches-itself-as-prime-location-for-amazon-hq/article_18271ddd-ea9d-5f39-8926-0dcf6ff0c68a.html",
+    "lat": 44.7973962,
+    "lng": -93.5272861
+  },
+  {
+    "city": "Harrisburg ",
+    "state": "Pennsylvania",
+    "metro_population": 568033,
+    "unemployment_rate": 4.6,
+    "tech_sector": 20326,
+    "rent_pricing": 810,
+    "home_pricing": 69700,
+    "link": "http://www.pennlive.com/news/2017/09/harrisburg_could_it_be_amazons.html",
+    "lat": 40.2731911,
+    "lng": -76.8867008
+  },
+  {
+    "city": "Langford ",
+    "state": "British Columbia",
+    "metro_population": 367770,
+    "unemployment_rate": 4.6,
+    "tech_sector": 11600,
+    "rent_pricing": 1050,
+    "link": "http://www.timescolonist.com/news/local/langford-to-battle-big-u-s-cities-for-amazon-s-second-hq-1.22953097",
+    "lat": 48.4474626,
+    "lng": -123.4956337
+  },
+  {
+    "city": "Yonkers",
+    "state": "Westchester County",
+    "link": "http://www.lohud.com/story/news/local/westchester/2017/09/25/westchester-amazon-headquarters/701688001/",
+    "lat": 40.9312099,
+    "lng": -73.8987469
+  },
+  {
+    "city": "Spokane ",
+    "state": "Washington",
+    "link": "http://www.spokesman.com/stories/2017/sep/27/spokane-area-joins-competiton-for-amazons-second-h/",
+    "lat": 47.6587802,
+    "lng": -117.4260465
+  },
+  {
+    "city": "Columbia ",
+    "state": "Maryland",
+    "link": "http://www.baltimoresun.com/business/bs-bz-howard-county-amazon-20170928-story.html",
+    "lat": 39.2037144,
+    "lng": -76.8610462
+  },
+  {
+    "city": "Pawtucket ",
+    "state": "Rhode Island",
+    "link": "http://turnto10.com/news/local/pawtucket-central-falls-to-bid-for-amazons-hq2",
+    "lat": 41.878711,
+    "lng": -71.3825558
+  },
+  {
+    "city": "Lawrence",
+    "state": "Kansas",
+    "link": "https://lawrenceks.org/2017/09/28/joint-statement-amazon-headquarters-search/",
+    "lat": 38.9716689,
+    "lng": -95.2352501
+  },
+  {
+    "city": "Youngstown",
+    "state": "Ohio",
+    "link": "http://wkbn.com/2017/09/29/group-asks-amazon-to-consider-youngstown-warren-area-for-headquarters/?utm_source=dlvr.it&utm_medium=twitter",
+    "lat": 41.0997803,
+    "lng": -80.6495194
+  },
+  {
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "link": "https://www.csindy.com/TheWire/archives/2017/09/14/springs-to-make-bid-for-amazon-second-headquarters",
+    "lat": 38.8338816,
+    "lng": -104.8213634
   }
 ]
