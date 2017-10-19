@@ -20,6 +20,29 @@ h1 {
   font-style: italic;
 }
 
+.key {
+  @size: 15px;
+  font-size: @size;
+  text-align: center;
+  padding: 16px 0;
+  font-style: italic;
+
+  .dot {
+    display: inline-block;
+    width: @size;
+    height: @size;
+    border-radius: 100%;
+
+    &.announced { background: @st-dark-orange }
+    &.submitted { background: @st-dark-green }
+    &.dropped { background: @st-dark-purple }
+
+    &:not(:first-child) {
+      margin-left: 16px;
+    }
+  }
+}
+
 leaflet-map:not([ready]) {
   opacity: 0;
 }
@@ -71,6 +94,14 @@ leaflet-map:not([ready]) {
   border-radius: 100%;
   border: 1px solid @df-off-black;
   opacity: .8;
+
+  &.submitted {
+    background: @st-dark-green;
+  }
+
+  &.dropped {
+    background: @st-dark-purple;
+  }
 }
 
 .credit {

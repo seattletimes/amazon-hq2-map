@@ -33,7 +33,7 @@ var onClick = function(e) {
 window.cityData.forEach(function(c) {
   var marker = leaflet.marker([c.lat, c.lng], {
     icon: leaflet.divIcon({
-      className: "city-marker"
+      className: `city-marker ${c.bid_status}`
     })
   });
   c.marker = marker;
