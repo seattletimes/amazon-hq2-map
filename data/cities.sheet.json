@@ -145,12 +145,13 @@
   {
     "city": "San Jose",
     "state": "California",
+    "bid_status": "submitted",
     "metro_population": 1978816,
     "unemployment_rate": 3.9,
     "tech_sector": 329409,
     "rent_pricing": 2060,
     "home_pricing": 892400,
-    "link": "http://www.sfchronicle.com/business/article/San-Jose-to-bid-for-second-Amazon-com-headquarters-12181008.php",
+    "link": "http://www.mercurynews.com/2017/10/19/bay-area-cities-join-together-in-bid-for-amazon-headquarters/",
     "breaks_with_link": "$9,000,000",
     "tax_breaks": 9000000,
     "subsidized_company": "Samsung",
@@ -160,12 +161,13 @@
   {
     "city": "Oakland",
     "state": "California",
+    "bid_status": "submitted",
     "metro_population": 4679166,
     "unemployment_rate": 4.4,
     "tech_sector": 347802,
     "rent_pricing": 1740,
     "home_pricing": 687600,
-    "link": "http://www.sfchronicle.com/business/article/With-Amazon-com-looking-for-giant-new-HQ-Bay-12181428.php",
+    "link": "http://www.mercurynews.com/2017/10/19/bay-area-cities-join-together-in-bid-for-amazon-headquarters/",
     "breaks_with_link": "$3,500,000",
     "tax_breaks": 3500000,
     "subsidized_company": "Rockbot, Inc.",
@@ -175,24 +177,26 @@
   {
     "city": "Concord ",
     "state": "California",
+    "bid_status": "submitted",
     "metro_population": 4679166,
     "unemployment_rate": 3.9,
     "tech_sector": 347802,
     "rent_pricing": 2360,
     "home_pricing": 546400,
-    "link": "https://globenewswire.com/news-release/2017/09/08/1117130/0/en/Concord-California-Throws-Its-Hat-in-the-Ring-in-Amazon-Bid.html",
+    "link": "http://www.mercurynews.com/2017/10/19/bay-area-cities-join-together-in-bid-for-amazon-headquarters/",
     "lat": 37.9779776,
     "lng": -122.0310733
   },
   {
     "city": "San Francisco ",
     "state": "California",
+    "bid_status": "submitted",
     "metro_population": 4679166,
     "unemployment_rate": 3.9,
     "tech_sector": 347802,
     "rent_pricing": 2440,
     "home_pricing": 1227900,
-    "link": "http://www.sfchronicle.com/business/article/With-Amazon-com-looking-for-giant-new-HQ-Bay-12181428.php",
+    "link": "http://www.mercurynews.com/2017/10/19/bay-area-cities-join-together-in-bid-for-amazon-headquarters/",
     "breaks_with_link": "$3,700,000",
     "tax_breaks": 3700000,
     "subsidized_company": "Macy's",
@@ -1925,5 +1929,13 @@
     "link": "http://www.miamiherald.com/news/business/article179639436.html",
     "lat": 26.7056206,
     "lng": -80.0364297
+  },
+  {
+    "city": "Richmond",
+    "state": "California",
+    "bid_status": "submitted",
+    "link": "http://www.mercurynews.com/2017/10/19/bay-area-cities-join-together-in-bid-for-amazon-headquarters/",
+    "lat": 37.9357576,
+    "lng": -122.3477486
   }
 ]
