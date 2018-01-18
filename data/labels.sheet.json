@@ -9,11 +9,9 @@
     "label": "Median home price, November 2017"
   },
   "transit_use": {
-    "label": "Annual transit rides per capita ",
-    "undefined": "alternatively: national rank, among large metros? "
+    "label": "Annual transit rides per capita "
   },
   "airport_use": {
-    "label": "Annual passenger boardings ",
-    "undefined": "alternatively: national rank, among large metros? "
+    "label": "Annual airport passenger boardings "
   }
 }

@@ -1,10 +1,229 @@
 [
   {
-    "city ": "Seattle",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "metro_population": 5789700,
+    "tech_sector": 229427,
+    "home_pricing": 184600,
+    "transit_use": 31,
+    "airport_use": 50501858,
+    "lat": 33.7489954,
+    "lng": -84.3879824
+  },
+  {
+    "city": "Austin",
+    "state": "Texas",
+    "metro_population": 2056405,
+    "tech_sector": 127514,
+    "home_pricing": 277600,
+    "transit_use": 23,
+    "airport_use": 6095545,
+    "lat": 30.267153,
+    "lng": -97.7430608
+  },
+  {
+    "city": "Boston ",
+    "state": "Massachusetts ",
+    "metro_population": 4794447,
+    "tech_sector": 355602,
+    "home_pricing": 436200,
+    "transit_use": 98,
+    "airport_use": 17759044,
+    "lat": 42.3600825,
+    "lng": -71.0588801
+  },
+  {
+    "city": "Chicago",
+    "state": "Illinois",
+    "metro_population": 9512999,
+    "tech_sector": 425925,
+    "home_pricing": 213800,
+    "transit_use": 70,
+    "airport_use": 37589899,
+    "lat": 41.8781136,
+    "lng": -87.6297982
+  },
+  {
+    "city": "Dallas",
+    "state": "Texas",
+    "metro_population": 7233323,
+    "tech_sector": 354733,
+    "home_pricing": 218300,
+    "transit_use": 15,
+    "airport_use": 31283579,
+    "lat": 32.7766642,
+    "lng": -96.7969879
+  },
+  {
+    "city": "Denver ",
+    "state": "Colorado",
+    "metro_population": 2853077,
+    "tech_sector": 146826,
+    "home_pricing": 376500,
+    "transit_use": 40,
+    "airport_use": 28267394,
+    "lat": 39.7392358,
+    "lng": -104.990251
+  },
+  {
+    "city": "Miami",
+    "state": "Florida",
+    "metro_population": 6066387,
+    "tech_sector": 142383,
+    "home_pricing": 262400,
+    "transit_use": 27,
+    "airport_use": 20875813,
+    "lat": 25.7616798,
+    "lng": -80.1917902
+  },
+  {
+    "city": "New York",
+    "state": "New York",
+    "metro_population": 20153634,
+    "tech_sector": 671292,
+    "home_pricing": 429400,
+    "transit_use": 229,
+    "airport_use": 63924753,
+    "lat": 36,
+    "lng": -115.1745559
+  },
+  {
+    "city": "Newark ",
+    "state": "New Jersey",
+    "metro_population": 20153634,
+    "tech_sector": 671292,
+    "home_pricing": 429400,
+    "transit_use": 229,
+    "airport_use": 63924753,
+    "lat": 41,
+    "lng": -74.1723667
+  },
+  {
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "metro_population": 6070500,
+    "tech_sector": 246917,
+    "home_pricing": 220700,
+    "transit_use": 73,
+    "airport_use": 14564419,
+    "lat": 39.9525839,
+    "lng": -75.1652215
+  },
+  {
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "metro_population": 2342299,
+    "tech_sector": 109182,
+    "home_pricing": 138900,
+    "transit_use": 38,
+    "airport_use": 3986114,
+    "lat": 40.4406248,
+    "lng": -79.9958864
+  },
+  {
+    "city": "Seattle",
     "state": "Washington",
     "metro_population": 3798902,
     "tech_sector": 308210,
+    "home_pricing": 463800,
     "transit_use": 69,
-    "airport_use": 21877110
+    "airport_use": 21877110,
+    "lat": 47.6062095,
+    "lng": -122.3320708
+  },
+  {
+    "city": "Toronto",
+    "state": "Ontario",
+    "metro_population": 5928040,
+    "tech_sector": 286100,
+    "home_pricing": 594800,
+    "transit_use": 186,
+    "airport_use": 44335198,
+    "lat": 43.653226,
+    "lng": -79.3831843
+  },
+  {
+    "city": "Washington",
+    "state": "D.C. ",
+    "metro_population": 6131977,
+    "tech_sector": 442258,
+    "home_pricing": 385500,
+    "transit_use": 97,
+    "airport_use": 22067796,
+    "lat": 38.9071923,
+    "lng": -77
+  },
+  {
+    "city": "Los Angeles",
+    "state": "California",
+    "metro_population": 13310447,
+    "tech_sector": 523268,
+    "home_pricing": 625600,
+    "transit_use": 51,
+    "airport_use": 39636042,
+    "lat": 34.0522342,
+    "lng": -118.2436849
+  },
+  {
+    "city": "Columbus",
+    "state": "Ohio",
+    "metro_population": 2041520,
+    "tech_sector": 81913,
+    "home_pricing": 169300,
+    "transit_use": 14,
+    "airport_use": 3567864,
+    "lat": 39.9611755,
+    "lng": -82.9987942
+  },
+  {
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "metro_population": 2004230,
+    "tech_sector": 96698,
+    "home_pricing": 141700,
+    "transit_use": 6,
+    "airport_use": 4216766,
+    "lat": 39.768403,
+    "lng": -86.158068
+  },
+  {
+    "city": "Montgomery County",
+    "state": "Maryland",
+    "metro_population": 6131977,
+    "tech_sector": 442258,
+    "airport_use": 22067796,
+    "lat": 39.1547426,
+    "lng": -77.2405153
+  },
+  {
+    "city": "Northern Virginia",
+    "state": "Virginia",
+    "metro_population": 6131977,
+    "tech_sector": 442258,
+    "airport_use": 22067796,
+    "lat": 38.7636242,
+    "lng": -77.1764149
+  },
+  {
+    "city": "Nashville",
+    "state": "Tennessee",
+    "metro_population": 1865298,
+    "tech_sector": 82206,
+    "home_pricing": 228900,
+    "transit_use": 11,
+    "airport_use": 6338517,
+    "lat": 36.1626638,
+    "lng": -86.7816016
+  },
+  {
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "metro_population": 1302946,
+    "tech_sector": 73881,
+    "home_pricing": 233900,
+    "transit_use": 12,
+    "airport_use": 5401714,
+    "lat": 35.7795897,
+    "lng": -78.6381787
   }
 ]

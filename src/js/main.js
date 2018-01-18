@@ -26,6 +26,7 @@ var markers = [];
 var onClick = function(e) {
   var marker = e.target;
   var data = marker.data;
+  console.log(data);
   var html = popup(data);
   map.openPopup(html, marker.getLatLng());
 };

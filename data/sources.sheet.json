@@ -8,10 +8,12 @@
     "add if Canada": "The Brookfield Institute"
   },
   "home_pricing": {
-    "source": "Zillow "
+    "source": "Zillow ",
+    "add if Canada": "CREA "
   },
   "transit_use": {
-    "source": "Federal Transit Administration "
+    "source": "Federal Transit Administration ",
+    "add if Canada": "Canadian Urban Transit Association"
   },
   "airport_use": {
     "source": "Federal Aviation Administration "

@@ -12,14 +12,14 @@
 
         <p class="updated">
           <%
-          var mos = [null, "Jan.", "Feb.", "Mar.", "Apr.", "June", "July", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."];
+          var mos = ["Jan.", "Feb.", "Mar.", "Apr.", "June", "July", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."];
           var today = new Date();
           var date = mos[today.getMonth()] + " " + today.getDate();
           %>
           Updated: <%= date %>, 2018
 
         <p>
-          Amazon says it has received 238 proposals from states, provinces and cities interested in hosting the online retailer’s second headquarters and its up to 50,000 workers. While Amazon hasn’t identified them by name, the map below charts places that have announced bids or publicly considered it since Amazon announced it was seeking a second home. Click on a city for more details.
+          Amazon says it has received 238 proposals from states, provinces and cities interested in hosting the online retailer’s second headquarters and up to 50,000 workers. While Amazon hasn’t identified them by name, the map below charts places that have announced bids or publicly considered it since Amazon announced it was seeking a second home. Click on a city for more details.
         <div class="key">
           <i class="announced dot"></i> Announced
           <i class="submitted dot"></i> Submitted
@@ -55,7 +55,7 @@
     </responsive-child>
 
     <script>
-window.cityData = <%= JSON.stringify(json.cities.filter(function(c) { return c.city })) %>;
+window.cityData = <%= JSON.stringify(json.cities) %>;
 window.cityLabels = <%= JSON.stringify(json.labels) %>;
     </script>
 

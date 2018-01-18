@@ -16,7 +16,7 @@ var label = function(s) {
 };
 
 var $ = data.canada ? "CA$" : "$";
-
+console.log(data.city);
 %><h2>
   <% if (data.standin_city) { %>
   <%= data.state %>
@@ -43,16 +43,22 @@ var $ = data.canada ? "CA$" : "$";
     <span class="value"><%= commafy(data.tech_sector) %></span>
   <% } %>
 
-  <% if (data.rent_pricing) { %>
-  <li> 
-    <label><%= label("rent_pricing") %></label>
-    <span class="value"><%= $ %><%= commafy(data.rent_pricing) %></span>
-  <% } %>
-
   <% if (data.home_pricing) { %>
   <li> 
     <label><%= label("home_pricing") %></label>
     <span class="value"><%= $ %><%= commafy(data.home_pricing) %></span>
+  <% } %>
+
+  <% if (data.transit_use) { %>
+  <li> 
+    <label><%= label("transit_use") %></label>
+    <span class="value"><%= commafy(data.transit_use) %></span>
+  <% } %>
+
+  <% if (data.airport_use) { %>
+  <li> 
+    <label><%= label("airport_use") %></label>
+    <span class="value"><%= commafy(data.airport_use) %></span>
   <% } %>
 
   <% if (data.tax_breaks && data.subsidized_company) { %>
