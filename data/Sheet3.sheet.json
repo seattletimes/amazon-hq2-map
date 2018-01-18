@@ -1,17 +1,19 @@
 {
   "metro_population": {
-    "label": "Residents of the metropolitan area."
-  },
-  "unemployment_rate": {
-    "label": "Unemployment rate, July 2017. "
+    "source": "U.S. Census Bureau",
+    "add if Canada": "Statistics Canada"
   },
   "tech_sector": {
-    "label": "Number of people employed in science, technology, engineering and mathematics, and other advanced industries."
-  },
-  "rent_pricing": {
-    "label": "Median price for a one-bedroom apartment, Sept. 2017. "
+    "source": "Brookings, advanced industries employment",
+    "add if Canada": "The Brookfield Institute"
   },
   "home_pricing": {
-    "label": "Median home price, July 2017. "
+    "source": "Zillow "
+  },
+  "transit_use": {
+    "source": "Federal Transit Administration "
+  },
+  "airport_use": {
+    "source": "Federal Aviation Administration "
   }
 }

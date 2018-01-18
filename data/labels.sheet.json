@@ -2,19 +2,18 @@
   "metro_population": {
     "label": "Residents of the metropolitan area"
   },
-  "unemployment_rate": {
-    "label": "Unemployment rate, July 2017"
-  },
   "tech_sector": {
     "label": "Number of people employed in STEM fields and other advanced industries"
   },
-  "rent_pricing": {
-    "label": "Median price for a one-bedroom apartment, Sept. 2017"
-  },
   "home_pricing": {
-    "label": "Median home price, July 2017"
+    "label": "Median home price, November 2017"
   },
-  "tax_breaks": {
-    "label": "Notable previous corporate subsidy"
+  "transit_use": {
+    "label": "Annual transit rides per capita ",
+    "undefined": "alternatively: national rank, among large metros? "
+  },
+  "airport_use": {
+    "label": "Annual passenger boardings ",
+    "undefined": "alternatively: national rank, among large metros? "
   }
 }

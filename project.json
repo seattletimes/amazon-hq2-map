@@ -2,18 +2,18 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": "unauthorized-thirstiness"
+      "path": "destroyed-vocalism"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "2017/business/amazon-hq2-map"
+      "path": "2018/business/amazon-hq2-semifinalists"
     }
   },
   "title": "",
   "description": "",
   "url": "",
   "image": "assets/social.jpg",
-  "sheets": ["13-IovJWlvfiFDoKA2libSUJF-fRqnPCAgOm49ytkCLk"],
+  "sheets": ["1oB_xgDmyT3iPB9g0krJCkaUSPv6GAdltzpyUpLdqfxQ"],
   "standout": false,
   "embedded": true,
   "production": true
