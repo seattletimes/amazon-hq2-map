@@ -14,7 +14,7 @@
           <%
           var mos = ["Jan.", "Feb.", "Mar.", "Apr.", "June", "July", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."];
           var today = new Date();
-          var date = mos[today.getMonth()] + " " + today.getDate();
+          var date = mos[today.getMonth()-1] + " " + today.getDate();
           %>
           Updated: <%= date %>, 2018
 
@@ -49,7 +49,7 @@
           Sources: U.S. Census, U.S. Bureau of Labor Statistics, Statistics Canada, The Brookings Institute, The Brookfield Institute, Apartmentlist.com, Zillow.com, Canadian Real Estate Association, Good Jobs First
         </div>
         <div class="credit">
-          Thomas Wilburn / The Seattle Times
+          The Seattle Times
         </div>
       </main>
     </responsive-child>

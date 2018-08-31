@@ -2,18 +2,18 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": "destroyed-vocalism"
+      "path": "fixed-trouser"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "2018/business/amazon-hq2-semifinalists"
+      "path": "2018/business/amazon-hq2-anniversary1"
     }
   },
   "title": "",
   "description": "",
-  "url": "",
+  "url": "https://projects.seattletimes.com/2018/business/amazon-hq2-anniversary1",
   "image": "assets/social.jpg",
-  "sheets": ["1oB_xgDmyT3iPB9g0krJCkaUSPv6GAdltzpyUpLdqfxQ"],
+  "sheets": ["1rftZstN77JU7qB_3DUQEG5tD6qBZsE7FR1ieTJxE87s"],
   "standout": false,
   "embedded": true,
   "production": true
